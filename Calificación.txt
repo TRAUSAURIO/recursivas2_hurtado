@@ -1,0 +1,4 @@
+Calificación: 2.2/3
+- Debe documentar todas las funciones
+- En el pdf debe incluir la función recursiva y la llamada desde el main
+- Faltan gráficas de algunos ejercicios
